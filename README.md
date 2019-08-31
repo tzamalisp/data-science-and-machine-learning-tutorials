@@ -16,6 +16,7 @@ The topics and libraries related to Data Science, Machine Learning, and Deep lea
    * Plotly and Cufflinks - interactive data visaluzation
    * Geographical Plotting with Plotly and Cufflinks - interactive data visaluzation
 * Machine Learning
+   * Scikit-learn Machine Learning library for Python
    * Supervised Learning
       * Linear Regression
       * Logistic Regression
@@ -33,3 +34,25 @@ The topics and libraries related to Data Science, Machine Learning, and Deep lea
       * Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance
 * Deep Learning
    * Tensorflow - The core open source library Deep Learning to help you develop and train ML models.
+   
+## References
+
+Python and Libraries:
+* [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
+* Data Science and Data Visualization:
+   * [Numpy](https://numpy.org/)
+   * [Pandas](https://pandas.pydata.org/)
+   * [Matplotlib](https://matplotlib.org/)
+   * [Seaborn](https://seaborn.pydata.org/)
+   * [Plotly](https://plot.ly/)
+   * [Cufflinks](https://pypi.org/project/cufflinks/)
+* Machine Learning and Deep Learning:
+   * [Scikit-learn](https://scikit-learn.org/stable/)
+   * [Tensorflow](https://www.tensorflow.org/)
+
+Books:
+* [An Introduction to Statistical Learning: with Applications in R by James, G., Witten, D., Hastie, T., Tibshirani, R.](https://www.springer.com/gp/book/9781461471370)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow
+(Concepts, Tools, and Techniques to Build Intelligent Systems) by Aurélien Géron](http://shop.oreilly.com/product/0636920052289.do)
+
