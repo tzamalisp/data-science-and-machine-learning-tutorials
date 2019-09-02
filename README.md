@@ -6,7 +6,7 @@ reference guide.
 
 Some of the tutorials (including the algorithmic models) are based on real world data, but some other are based on technical produced data (fake) data for obvious reasons, such as data that include *fake* users and their *fake* credit card numbers.
 
-  I will keep updating the repository with new problems and I will evolve the projects in the future, so keep visiting these tutorials for new examples, challenges, practicing, and of course to be up-to-date. The evaluation results are not always the best that can be achieved as my purpose is to shows you the basic steps of applying the ML models, as well as I'm letting to you to experiment with the parameters of these models to achieve the best outcomes by yourself.
+**Note:** I will keep updating the repository with new problems and I will evolve the projects in the future, so keep visiting these tutorials for new examples, challenges, practicing, and of course to be up-to-date. The evaluation results are not always the best that can be achieved as my purpose is to shows you the basic steps of applying the ML models, as well as I'm letting to you to experiment with the parameters of these models to achieve the best outcomes by yourself.
 
 The topics and libraries related to Data Science, Machine Learning, and Deep learning that are presented in these tutorials are the following:
 * Jupyter Notebook
